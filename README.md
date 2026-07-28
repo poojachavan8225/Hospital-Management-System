@@ -49,13 +49,13 @@ The project reduces manual paperwork and provides an organized way to maintain h
 ![Dashboard](screenshots/dashboard.png)
 
 ### Add Doctor
-![Add Doctor](screenshots/adddoctor.png)
+![Add Doctor](screenshots/adddoctors.png)
 
 ### Add Patient
-![Add Patient](screenshots/add-patient.png)
+![Add Patient](screenshots/addpatients.png)
 
 ### Billing
-![Billing](screenshots/billing.png)
+![Billing](screenshots/generatebills.png)
 
 ---
 
