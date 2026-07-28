@@ -43,13 +43,13 @@ The project reduces manual paperwork and provides an organized way to maintain h
 ## 📸 Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/loginpage.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
 ### Add Doctor
-![Add Doctor](screenshots/add-doctor.png)
+![Add Doctor](screenshots/adddoctor.png)
 
 ### Add Patient
 ![Add Patient](screenshots/add-patient.png)
